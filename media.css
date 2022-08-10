@@ -1,0 +1,119 @@
+@media screen and (max-width: 1100px) {
+  .container-one {
+    width: 80%;
+  }
+  .in-con-bottom {
+    width: 70%;
+  }
+  .container-boutm-1 .parag {
+    padding: 10px 0;
+  }
+  .serves {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  .containerPage{
+    width: 75%;
+  }
+  .in-con-bottom-2{
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 880px) {
+    .container-boutm .parag {
+        font-size: 35px;
+    }
+  
+  
+  }
+  
+
+@media screen and (max-width: 750px) {
+  .container-one {
+    width: 90%;
+  }
+  .in-con-bottom {
+    width: 80%;
+  }
+  .serves {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  .in-con-bottom-1-1 {
+    margin: 0 4px;
+    padding: 0 4px;
+  }
+  .containerPage{
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .container-one {
+    width: 95%;
+  }
+  .in-con-bottom {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 570px) {
+
+  .container-boutm {
+    height: 77%;
+  }
+
+  .container-top {
+    height: 25%;
+  }
+  .containerPage {
+    width: 95%;
+  }
+  .container-boutm-2 {
+    height: 80%;
+  }
+  .container-boutm .parag {
+    font-size: 25px;
+  }
+  .parag {
+    font-size: 25px !important;
+  }
+  .in-con-bottom-2 {
+    width: 90%;
+  }
+  .container-boutm-2 .parag-2 {
+    font-size: 20px;
+  }
+  .container-boutm-1 {
+    height: 77%;
+  }
+  .box-items-1 {
+    width: 90%;
+  }
+  .serves {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+
+    .containerPage{
+        width: 99%;
+      }
+
+  .container-one {
+    width: 100%;
+  }
+  .in-con-bottom {
+    width: 95%;
+  }
+
+  .container-boutm .parag {
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
+
+
+
